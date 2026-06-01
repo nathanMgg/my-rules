@@ -1,31 +1,55 @@
+# AI services — Classical rules
+# Common format for OpenClash / Quantumult X / Shadowrocket
+
+# OpenAI / ChatGPT
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
 
+# Anthropic / Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
-
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
-
-DOMAIN-SUFFIX,openrouter.ai
-
-DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,cursor.com
-
-DOMAIN-SUFFIX,perplexity.ai
-
-DOMAIN-SUFFIX,groq.com
-
-DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
+
+# Gemini / Google AI
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-KEYWORD,gemini
+
+# xAI / Grok
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-KEYWORD,xai
 DOMAIN-KEYWORD,grok
-DOMAIN-KEYWORD,cursor
+
+# OpenRouter
+DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-KEYWORD,openrouter
+
+# Cursor
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-KEYWORD,cursor
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-KEYWORD,perplexity
+
+# Groq
+DOMAIN-SUFFIX,groq.com
 DOMAIN-KEYWORD,groq
+
+# Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-KEYWORD,copilot
+
+# Meta AI
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-KEYWORD,metaai

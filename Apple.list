@@ -1,0 +1,9 @@
+# Apple — Classical rules
+# Common format for OpenClash / Quantumult X / Shadowrocket
+
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-KEYWORD,icloud
+DOMAIN-KEYWORD,itunes

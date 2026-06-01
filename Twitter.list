@@ -1,0 +1,8 @@
+# Twitter / X — Classical rules
+# Common format for OpenClash / Quantumult X / Shadowrocket
+
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,twimg

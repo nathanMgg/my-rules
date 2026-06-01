@@ -1,0 +1,10 @@
+# YouTube — Classical rules
+# Common format for OpenClash / Quantumult X / Shadowrocket
+
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,googlevideo
+DOMAIN-KEYWORD,ytimg
