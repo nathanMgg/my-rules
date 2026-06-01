@@ -2,6 +2,7 @@
 # Common format for OpenClash / Quantumult X / Shadowrocket
 
 DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-KEYWORD,telegram

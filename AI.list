@@ -6,12 +6,14 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,api.openai.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
 
 # Anthropic / Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 
@@ -30,6 +32,7 @@ DOMAIN-KEYWORD,grok
 
 # OpenRouter
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,openrouterusercontent.com
 DOMAIN-KEYWORD,openrouter
 
 # Cursor
