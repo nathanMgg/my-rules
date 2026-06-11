@@ -20,6 +20,7 @@ DOMAIN-KEYWORD,example
 | `YouTube.list` | YouTube 相关域名规则 |
 | `Telegram.list` | Telegram 相关域名规则 |
 | `Apple.list` | Apple / iCloud / iTunes 相关域名规则 |
+| `Direct.list` | 手动直连修正规则：用于接住本来会落到兜底分流、但实际应直连的域名 |
 
 ## 使用方式
 

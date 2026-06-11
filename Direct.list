@@ -1,0 +1,10 @@
+# Direct.list
+# 手动指定直连域名
+#
+# 用途：给“本来会掉到兜底分流、但实际应直连”的域名做修正规则。
+# 规则在 fallback.yaml 中应放在明确分流规则之后、MATCH 兜底之前。
+#
+# 常用格式：
+# DOMAIN-SUFFIX,example.com
+# DOMAIN,exact.example.com
+# DOMAIN-KEYWORD,example
