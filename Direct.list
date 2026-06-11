@@ -15,3 +15,7 @@ DOMAIN-KEYWORD,iposl
 DOMAIN-SUFFIX,ma.vo0.site
 DOMAIN-SUFFIX,str.vo0.site
 DOMAIN-SUFFIX,ppa.iposl.com
+
+# 小红书图片/主站直连
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xiaohongshu.com
