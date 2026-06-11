@@ -8,3 +8,10 @@
 # DOMAIN-SUFFIX,example.com
 # DOMAIN,exact.example.com
 # DOMAIN-KEYWORD,example
+
+DOMAIN-KEYWORD,vo0
+DOMAIN-KEYWORD,zhimeisj
+DOMAIN-KEYWORD,iposl
+DOMAIN-SUFFIX,ma.vo0.site
+DOMAIN-SUFFIX,str.vo0.site
+DOMAIN-SUFFIX,ppa.iposl.com
