@@ -1,5 +1,0 @@
-# Nintendo services — Classical rules
-# For routing Nintendo Switch/online services to Games proxy group
-
-# Nintendo owns nintendo.net entirely — catch all subdomains
-DOMAIN-SUFFIX,nintendo.net
