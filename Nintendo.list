@@ -1,0 +1,5 @@
+# Nintendo services — Classical rules
+# For routing Nintendo Switch/online services to Games proxy group
+
+# Nintendo Switch online services (srv.nintendo.net subdomains for push/CDN/account)
+DOMAIN-SUFFIX,srv.nintendo.net
