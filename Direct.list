@@ -19,3 +19,10 @@ DOMAIN-SUFFIX,ppa.iposl.com
 # 小红书图片/主站直连
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xiaohongshu.com
+
+# 腾讯地图直连（微信定位等）
+DOMAIN-SUFFIX,map.qq.com
+DOMAIN-SUFFIX,apis.map.qq.com
+DOMAIN-SUFFIX,pr.map.qq.com
+DOMAIN-SUFFIX,rt.map.qq.com
+DOMAIN-SUFFIX,sv.map.qq.com
