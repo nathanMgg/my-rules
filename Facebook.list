@@ -1,0 +1,18 @@
+# Facebook / Meta — Classical rules
+# Common format for OpenClash / Quantumult X / Shadowrocket
+
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metacdn.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,messenger
+DOMAIN-KEYWORD,instagram

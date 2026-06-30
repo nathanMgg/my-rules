@@ -1,0 +1,15 @@
+# GitHub — Classical rules
+# Common format for OpenClash / Quantumult X / Shadowrocket
+
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,githubdesktop.com
+DOMAIN-SUFFIX,githubcloud.com
+DOMAIN-KEYWORD,github
