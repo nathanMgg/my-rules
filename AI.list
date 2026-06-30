@@ -56,3 +56,7 @@ DOMAIN-KEYWORD,copilot
 # Meta AI
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-KEYWORD,metaai
+
+# DeepSeek
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-KEYWORD,deepseek

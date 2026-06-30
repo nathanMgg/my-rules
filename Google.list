@@ -26,4 +26,8 @@ DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-KEYWORD,google
