@@ -60,3 +60,9 @@ DOMAIN-KEYWORD,metaai
 # DeepSeek
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-KEYWORD,deepseek
+
+# Trae (AI IDE)
+DOMAIN-KEYWORD,trae
+
+# ByteDance international API
+DOMAIN-KEYWORD,byteintlapi
