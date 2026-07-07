@@ -82,6 +82,12 @@ DOMAIN,antigravity.google
 DOMAIN,antigravity-unleash.goog
 
 ########################
+# 终极一刀切捕获
+########################
+
+DOMAIN-KEYWORD,gemini
+
+########################
 # CDN
 ########################
 
