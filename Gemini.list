@@ -38,6 +38,9 @@ DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,waa-pa.clients6.google.com
 DOMAIN-SUFFIX,ogads-pa.clients6.google.com
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,alkali-pa.clients6.google.com
 
 # ====================
 # Content delivery / CDN

@@ -21,6 +21,9 @@ HOST-SUFFIX,clients6.google.com,Gemini
 HOST-SUFFIX,jnn-pa.googleapis.com,Gemini
 HOST-SUFFIX,waa-pa.clients6.google.com,Gemini
 HOST-SUFFIX,ogads-pa.clients6.google.com,Gemini
+HOST-SUFFIX,oauthaccountmanager.googleapis.com,Gemini
+HOST-SUFFIX,alkalimakersuite-pa.clients6.google.com,Gemini
+HOST-SUFFIX,alkali-pa.clients6.google.com,Gemini
 
 # Content delivery / CDN
 HOST-SUFFIX,googleusercontent.com,Gemini
