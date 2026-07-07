@@ -1,58 +1,84 @@
 # Gemini / Google AI — Classical rules
-# Common format for OpenClash / Quantumult X / Shadowrocket
-# Ensures full functionality: web app, AI Studio, API, authentication, assets
+# Common format for OpenClash / Clash Meta / Shadowrocket
+# Maintainer: NathanMgg
 
-# ====================
-# Core Gemini domains
-# ====================
+########################
+# Core Gemini
+########################
 
-# Gemini Web App
 DOMAIN-SUFFIX,gemini.google.com
-
-# Google AI Studio
+DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
-
-# Gemini API backend (critical)
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 
-# Google AI developer docs
-DOMAIN-SUFFIX,ai.google.dev
+########################
+# Google AI Platform
+########################
 
-# ====================
-# Google Auth / Account
-# ====================
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN,jules.google.com
+
+########################
+# Google Account
+########################
 
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,accounts.youtube.com
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 
-# ====================
-# Google API infrastructure
-# ====================
+########################
+# Google API
+########################
 
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,www.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
-DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,clients6.google.com
 
-# Gemini-specific API endpoints
+########################
+# Gemini Backend
+########################
+
+DOMAIN,aida.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN,alkalicore-pa.clients6.google.com
+
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
 DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,waa-pa.clients6.google.com
 DOMAIN-SUFFIX,ogads-pa.clients6.google.com
-DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,alkali-pa.clients6.google.com
+DOMAIN-SUFFIX,alkali.googleapis.com
 
-# ====================
-# Content delivery / CDN
-# ====================
+########################
+# Google AI Experiments
+########################
 
-# User content / images
+DOMAIN,antigravity.google
+DOMAIN,antigravity-unleash.goog
+
+########################
+# CDN
+########################
+
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,lh3.googleusercontent.com
 DOMAIN-SUFFIX,lh5.googleusercontent.com
 DOMAIN-SUFFIX,lh3.google.com
 
-# Static assets
+########################
+# Static
+########################
+
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ssl.gstatic.com
 DOMAIN-SUFFIX,fonts.gstatic.com
@@ -62,21 +88,12 @@ DOMAIN-SUFFIX,maps.googleapis.com
 DOMAIN-SUFFIX,i.ytimg.com
 DOMAIN-SUFFIX,yt3.ggpht.com
 
-# ====================
-# Other Google services Gemini depends on
-# ====================
+########################
+# Google Services
+########################
 
 DOMAIN-SUFFIX,ogs.google.com
 DOMAIN-SUFFIX,csp.withgoogle.com
-DOMAIN-SUFFIX,www.googletagmanager.com
 DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,www.google.com
-
-# ====================
-# Broad keyword match (catch-all)
-# ====================
-
-DOMAIN-KEYWORD,gemini
-DOMAIN-KEYWORD,aistudio
-DOMAIN-KEYWORD,generativelanguage

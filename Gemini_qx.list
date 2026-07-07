@@ -1,37 +1,84 @@
-# Gemini / Google AI — Quantumult X format
-# HOST-SUFFIX with policy name "Gemini"
+# Gemini / Google AI — Quantumult X
+# Maintainer: NathanMgg
+# Policy: Gemini
 
-# Core Gemini domains
+########################
+# Core Gemini
+########################
+
 HOST-SUFFIX,gemini.google.com,Gemini
+HOST-SUFFIX,ai.google.dev,Gemini
 HOST-SUFFIX,aistudio.google.com,Gemini
 HOST-SUFFIX,generativelanguage.googleapis.com,Gemini
-HOST-SUFFIX,ai.google.dev,Gemini
 
-# Google Auth / Account
+########################
+# Google AI Platform
+########################
+
+HOST-SUFFIX,generativeai.google,Gemini
+HOST-SUFFIX,makersuite.google.com,Gemini
+HOST-SUFFIX,notebooklm.google,Gemini
+HOST-SUFFIX,notebooklm.google.com,Gemini
+HOST,jules.google.com,Gemini
+
+########################
+# Google Account
+########################
+
 HOST-SUFFIX,accounts.google.com,Gemini
 HOST-SUFFIX,accounts.youtube.com,Gemini
+HOST-SUFFIX,oauthaccountmanager.googleapis.com,Gemini
 
-# Google API infrastructure
+########################
+# Google API
+########################
+
+HOST-SUFFIX,googleapis.com,Gemini
 HOST-SUFFIX,www.googleapis.com,Gemini
 HOST-SUFFIX,apis.google.com,Gemini
-HOST-SUFFIX,googleapis.com,Gemini
 HOST-SUFFIX,clients6.google.com,Gemini
 
-# Gemini-specific API endpoints
+########################
+# Gemini Backend
+########################
+
+HOST,aida.googleapis.com,Gemini
+HOST,aisandbox-pa.googleapis.com,Gemini
+HOST,daily-cloudcode-pa.googleapis.com,Gemini
+HOST,robinfrontend-pa.googleapis.com,Gemini
+HOST,alkalicore-pa.clients6.google.com,Gemini
+
+HOST-SUFFIX,cloudcode-pa.googleapis.com,Gemini
+HOST-SUFFIX,geller-pa.googleapis.com,Gemini
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,Gemini
+
 HOST-SUFFIX,jnn-pa.googleapis.com,Gemini
 HOST-SUFFIX,waa-pa.clients6.google.com,Gemini
 HOST-SUFFIX,ogads-pa.clients6.google.com,Gemini
-HOST-SUFFIX,oauthaccountmanager.googleapis.com,Gemini
 HOST-SUFFIX,alkalimakersuite-pa.clients6.google.com,Gemini
 HOST-SUFFIX,alkali-pa.clients6.google.com,Gemini
+HOST-SUFFIX,alkali.googleapis.com,Gemini
 
-# Content delivery / CDN
+########################
+# Google AI Experiments
+########################
+
+HOST,antigravity.google,Gemini
+HOST,antigravity-unleash.goog,Gemini
+
+########################
+# CDN
+########################
+
 HOST-SUFFIX,googleusercontent.com,Gemini
 HOST-SUFFIX,lh3.googleusercontent.com,Gemini
 HOST-SUFFIX,lh5.googleusercontent.com,Gemini
 HOST-SUFFIX,lh3.google.com,Gemini
 
-# Static assets
+########################
+# Static
+########################
+
 HOST-SUFFIX,gstatic.com,Gemini
 HOST-SUFFIX,ssl.gstatic.com,Gemini
 HOST-SUFFIX,fonts.gstatic.com,Gemini
@@ -41,10 +88,12 @@ HOST-SUFFIX,maps.googleapis.com,Gemini
 HOST-SUFFIX,i.ytimg.com,Gemini
 HOST-SUFFIX,yt3.ggpht.com,Gemini
 
-# Other Google services Gemini depends on
+########################
+# Google Services
+########################
+
 HOST-SUFFIX,ogs.google.com,Gemini
 HOST-SUFFIX,csp.withgoogle.com,Gemini
-HOST-SUFFIX,www.googletagmanager.com,Gemini
 HOST-SUFFIX,play.google.com,Gemini
+HOST-SUFFIX,googletagmanager.com,Gemini
 HOST-SUFFIX,google.com,Gemini
-HOST-SUFFIX,www.google.com,Gemini
