@@ -10,6 +10,8 @@ HOST-SUFFIX,gemini.google.com,Gemini
 HOST-SUFFIX,ai.google.dev,Gemini
 HOST-SUFFIX,aistudio.google.com,Gemini
 HOST-SUFFIX,generativelanguage.googleapis.com,Gemini
+HOST-SUFFIX,vertexai.googleapis.com,Gemini
+HOST-SUFFIX,alkalimira-pa.googleapis.com,Gemini
 
 ########################
 # Google AI Platform
@@ -28,6 +30,9 @@ HOST,jules.google.com,Gemini
 HOST-SUFFIX,accounts.google.com,Gemini
 HOST-SUFFIX,accounts.youtube.com,Gemini
 HOST-SUFFIX,oauthaccountmanager.googleapis.com,Gemini
+HOST-SUFFIX,oauth2.googleapis.com,Gemini
+HOST-SUFFIX,securetoken.googleapis.com,Gemini
+HOST-SUFFIX,identitytoolkit.googleapis.com,Gemini
 
 ########################
 # Google API
@@ -37,6 +42,16 @@ HOST-SUFFIX,googleapis.com,Gemini
 HOST-SUFFIX,www.googleapis.com,Gemini
 HOST-SUFFIX,apis.google.com,Gemini
 HOST-SUFFIX,clients6.google.com,Gemini
+
+########################
+# Firebase
+########################
+
+HOST-SUFFIX,firebase.googleapis.com,Gemini
+HOST-SUFFIX,firebaseinstallations.googleapis.com,Gemini
+HOST-SUFFIX,firebaselogging-pa.googleapis.com,Gemini
+HOST-SUFFIX,firebasestorage.googleapis.com,Gemini
+HOST-SUFFIX,firebase-settings.crashlytics.com,Gemini
 
 ########################
 # Gemini Backend
@@ -72,7 +87,9 @@ HOST,antigravity-unleash.goog,Gemini
 
 HOST-SUFFIX,googleusercontent.com,Gemini
 HOST-SUFFIX,lh3.googleusercontent.com,Gemini
+HOST-SUFFIX,lh4.googleusercontent.com,Gemini
 HOST-SUFFIX,lh5.googleusercontent.com,Gemini
+HOST-SUFFIX,lh6.googleusercontent.com,Gemini
 HOST-SUFFIX,lh3.google.com,Gemini
 
 ########################

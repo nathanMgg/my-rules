@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,vertexai.googleapis.com
+DOMAIN-SUFFIX,alkalimira-pa.googleapis.com
 
 ########################
 # Google AI Platform
@@ -28,6 +30,9 @@ DOMAIN,jules.google.com
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,accounts.youtube.com
 DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,securetoken.googleapis.com
+DOMAIN-SUFFIX,identitytoolkit.googleapis.com
 
 ########################
 # Google API
@@ -37,6 +42,16 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,www.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,clients6.google.com
+
+########################
+# Firebase
+########################
+
+DOMAIN-SUFFIX,firebase.googleapis.com
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,firebasestorage.googleapis.com
+DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 
 ########################
 # Gemini Backend
@@ -72,7 +87,9 @@ DOMAIN,antigravity-unleash.goog
 
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,lh3.googleusercontent.com
+DOMAIN-SUFFIX,lh4.googleusercontent.com
 DOMAIN-SUFFIX,lh5.googleusercontent.com
+DOMAIN-SUFFIX,lh6.googleusercontent.com
 DOMAIN-SUFFIX,lh3.google.com
 
 ########################
