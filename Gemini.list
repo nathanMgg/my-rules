@@ -75,6 +75,14 @@ DOMAIN-SUFFIX,alkali-pa.clients6.google.com
 DOMAIN-SUFFIX,alkali.googleapis.com
 
 ########################
+# Google Services (新增)
+########################
+
+DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+DOMAIN-SUFFIX,content-autofill.googleapis.com
+DOMAIN-SUFFIX,streetviewpixels-pa.googleapis.com
+
+########################
 # Google AI Experiments
 ########################
 
