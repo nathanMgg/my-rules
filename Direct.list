@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,apis.map.qq.com
 DOMAIN-SUFFIX,pr.map.qq.com
 DOMAIN-SUFFIX,rt.map.qq.com
 DOMAIN-SUFFIX,sv.map.qq.com
+
+# xqjzvcvt 直连
+DOMAIN-SUFFIX,xqjzvcvt
