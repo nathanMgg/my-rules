@@ -1,0 +1,5 @@
+# Block.list
+# 手动指定拒绝/屏蔽域名
+
+# ByteDance overseas (block)
+DOMAIN-KEYWORD,byteoversea
