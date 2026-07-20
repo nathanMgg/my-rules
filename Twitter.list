@@ -9,3 +9,9 @@ DOMAIN-KEYWORD,twimg
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,ads-twitter.com
+
+# xAI / Grok (route via Twitter -> Japan)
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-KEYWORD,xai
+DOMAIN-KEYWORD,grok

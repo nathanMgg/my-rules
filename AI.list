@@ -24,11 +24,6 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-KEYWORD,gemini
 
-# xAI / Grok
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
-DOMAIN-KEYWORD,xai
-DOMAIN-KEYWORD,grok
 
 # OpenRouter
 DOMAIN-SUFFIX,openrouter.ai
