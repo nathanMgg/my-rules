@@ -15,3 +15,8 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-KEYWORD,xai
 DOMAIN-KEYWORD,grok
+# Grok app CDN / assets (separate from grok.com main domain)
+DOMAIN-SUFFIX,assets.grok.com
+DOMAIN-SUFFIX,auth.x.ai
+DOMAIN-SUFFIX,api.x.ai
+DOMAIN-SUFFIX,code.grok.com
