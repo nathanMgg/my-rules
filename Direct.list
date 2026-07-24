@@ -37,3 +37,6 @@ DOMAIN-SUFFIX,llm-agent.cc
 
 # pan666.net 直连
 DOMAIN-SUFFIX,pan666.net
+
+# huanling 直连
+DOMAIN-SUFFIX,huanling.icu
