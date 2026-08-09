@@ -40,5 +40,5 @@ DOMAIN-SUFFIX,huanling.icu
 # xinmiai 直连
 DOMAIN-SUFFIX,xinmiai.com
 
-# smart.uhdnow 直连
-DOMAIN-SUFFIX,smart.uhdnow.com
+# uhdnow 全部直连
+DOMAIN-KEYWORD,uhdnow
