@@ -35,7 +35,7 @@ DOMAIN-SUFFIX,llm-agent.cc
 DOMAIN-SUFFIX,pan666.net
 
 # huanling 直连
-DOMAIN-SUFFIX,huanling.icu
+# DOMAIN-SUFFIX,huanling.icu
 
 # xinmiai 直连
 DOMAIN-SUFFIX,xinmiai.com
