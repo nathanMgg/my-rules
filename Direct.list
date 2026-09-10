@@ -15,6 +15,11 @@ DOMAIN-KEYWORD,iposl
 DOMAIN-SUFFIX,ma.vo0.site
 DOMAIN-SUFFIX,str.vo0.site
 DOMAIN-SUFFIX,ppa.iposl.com
+DOMAIN-SUFFIX,ppa.o7o7.cn
+
+# 小红书图片/主站直连
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xiaohongshu.com
 
 # 腾讯地图直连（微信定位等）
 DOMAIN-SUFFIX,map.qq.com
