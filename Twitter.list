@@ -9,14 +9,3 @@ DOMAIN-KEYWORD,twimg
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,ads-twitter.com
-
-# xAI / Grok (route via Twitter -> Japan)
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
-DOMAIN-KEYWORD,xai
-DOMAIN-KEYWORD,grok
-# Grok app CDN / assets (separate from grok.com main domain)
-DOMAIN-SUFFIX,assets.grok.com
-DOMAIN-SUFFIX,auth.x.ai
-DOMAIN-SUFFIX,api.x.ai
-DOMAIN-SUFFIX,code.grok.com

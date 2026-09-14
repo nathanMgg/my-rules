@@ -1,0 +1,11 @@
+# Grok / xAI — Classical rules
+# OpenClash rule-provider: Grok / Domain → AI
+
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,grok
+DOMAIN-KEYWORD,xai
+DOMAIN-SUFFIX,assets.grok.com
+DOMAIN-SUFFIX,code.grok.com
+DOMAIN-SUFFIX,auth.x.ai
+DOMAIN-SUFFIX,api.x.ai
