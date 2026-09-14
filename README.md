@@ -18,6 +18,7 @@ DOMAIN-KEYWORD,example
 | `AI.list` | AI 服务规则：OpenAI、ChatGPT、Anthropic、Claude、Gemini、xAI、Grok、OpenRouter、Cursor、Perplexity、Groq、Copilot、Meta AI |
 | `Gemini.list` | Gemini / Google AI 完整规则集（Classical 格式，适用于 OpenClash / Clash Meta / Shadowrocket） |
 | `Gemini_qx.list` | Gemini / Google AI 完整规则集（Quantumult X 格式，策略名 `Gemini`） |
+| `Grok.list` | Grok / xAI 规则（从 Twitter 拆出，走 AI 组） |
 | `Twitter.list` | Twitter / X 相关域名规则 |
 | `YouTube.list` | YouTube 相关域名规则 |
 | `Telegram.list` | Telegram 相关域名规则 |

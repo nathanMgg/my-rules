@@ -1,8 +1,11 @@
 # Grok / xAI — Classical rules
 # OpenClash rule-provider: Grok / Domain → AI
+# Domains aligned with v2fly domain-list-community data/xai
 
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN,grok.x.com
 DOMAIN-KEYWORD,grok
 DOMAIN-KEYWORD,xai
 DOMAIN-SUFFIX,assets.grok.com
