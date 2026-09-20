@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,llm-agent.cc
 DOMAIN-SUFFIX,pan666.net
 
 # huanling 直连
-DOMAIN-KEYWORD,huanling
+# DOMAIN-KEYWORD,huanling
 
 # xinmiai 直连
 DOMAIN-SUFFIX,xinmiai.com
