@@ -47,3 +47,8 @@ DOMAIN-SUFFIX,xinmiai.com
 
 # uhdnow 全部直连
 DOMAIN-KEYWORD,uhdnow
+
+# Tailscale 直连（控制面/DERP 无 SNI，走 fake-ip + 代理链路会超时）
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,tailscale.net
